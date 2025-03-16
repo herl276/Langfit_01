@@ -12,10 +12,10 @@ Dashboard interaktif ini dibuat menggunakan Streamlit untuk menganalisis data pe
 - **Analisis Pelanggan**:
   - Proporsi pelanggan Member vs Normal.
   - Distribusi transaksi berdasarkan gender.
+  - Rata-rata rating pelanggan untuk setiap kategori produk
 - **Analisis Cabang & Kota**:
   - Kota dengan total penjualan tertinggi.
   - Performa cabang berdasarkan pendapatan.
-  - Rata-rata rating pelanggan untuk setiap kategori produk
 - **Filter Interaktif**:
   - Filter berdasarkan rentang tanggal, kategori produk, dan cabang.
   - Navigasi melalui sidebar.
