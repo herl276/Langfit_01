@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load dataset
-df = pd.read_csv("data.csv")
+df = pd.read_csv("Langfit/data.csv")
 
 # Konversi kolom 'Date' ke format datetime
 df['Date'] = pd.to_datetime(df['Date'])
